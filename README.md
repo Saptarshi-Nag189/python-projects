@@ -1,2 +1,3 @@
-# python-image-detection
-image detection using python
+# python-projects
+some python projects
+
